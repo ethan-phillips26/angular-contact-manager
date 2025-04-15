@@ -11,8 +11,7 @@ A simple contact manager made with Angular. It allows users to add, view, and ed
 - Delete contacts
 - View a list of all contacts
 - Search/filter contacts by name
-- Responsive UI *(if applicable)*
-- Data persistence with **[LocalStorage / Firebase / REST API]**
+- Responsive UI
 
 ---
 
