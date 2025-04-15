@@ -4,6 +4,12 @@ A simple contact manager made with Angular. It allows users to add, view, and ed
 
 ---
 
+## Live site
+
+[View Deployed Site]([https://your-deployment-url.com](https://ethan-phillips26.github.io/angular-contact-manager/))
+
+---
+
 ## 🚀 Features
 
 - Add new contacts
