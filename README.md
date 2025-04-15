@@ -1,6 +1,6 @@
 # Contact Manager App
 
-A simple contact management system built with Angular. It allows users to add, edit, delete, and view contacts.
+A simple contact manager made with Angular. It allows users to add, view, and edit contacts.
 
 ---
 
@@ -39,9 +39,11 @@ A simple contact management system built with Angular. It allows users to add, e
   ```
 
 3. **Run the application:**
-   ```bash
-   ng serve
-   ```
+  ```bash
+  ng serve
+  ```
 
 4. **Navigate to:** http://localhost:4200
+
+
    
