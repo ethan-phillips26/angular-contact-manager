@@ -1,0 +1,9 @@
+<div class="card card-bg card-shadow mb-3 text-color">
+    <div class="card-body">
+      <h4 class="card-title">Name: {{contact.fname}} {{contact.lname}}</h4>
+      <p class="card-text">Phone Number: {{contact.phone}}</p>
+      <p class="card-text">Email: {{contact.email}}</p>
+      <a [routerLink] = "['/edit', contact.id]" class="btn btn-primary me-2">Edit</a>
+      <a (click) = "delete()" class="btn btn-danger">Delete</a>
+    </div>
+  </div>

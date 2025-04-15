@@ -1,0 +1,31 @@
+<div class="card card-bg text-color">
+    <div class="card-body">
+      <h5 class="card-title">Edit Contact</h5>
+  
+      <form>
+        <div class="mb-3">
+          <label class="form-label">First name</label>
+          <input type="text" class="form-control" name="fname" placeholder="Enter name" [(ngModel)]="fname">
+        </div>
+
+        <div class="mb-3">
+            <label for="contactName" class="form-label">Last name</label>
+            <input type="text" class="form-control" name="lname" placeholder="Enter name" [(ngModel)]="lname">
+          </div>
+  
+        <div class="mb-3">
+          <label for="contactPhone" class="form-label">Phone Number</label>
+          <input type="text" class="form-control" name="phone" placeholder="Enter phone number" [(ngModel)]="phone">
+        </div>
+  
+        <div class="mb-3">
+          <label for="contactEmail" class="form-label">Email</label>
+          <input type="email" class="form-control" name="email" placeholder="Enter email" [(ngModel)]="email">
+        </div>
+  
+        <button (click)="editContact()" routerLink="" class="btn btn-success me-2">Save</button>
+        <button routerLink="" type="button" class="btn btn-secondary">Cancel</button>
+      </form>
+    </div>
+  </div>
+  

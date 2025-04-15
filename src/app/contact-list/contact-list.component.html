@@ -1,0 +1,10 @@
+<div class="container mb-3">
+    <input type="text"
+         class="form-control"
+         placeholder="Search contacts..."
+         [(ngModel)]="searchTerm" />
+</div>
+@for (contact of filteredContacts(); track contact.id) {
+    <app-contact-card [contact] = contact></app-contact-card>
+}
+
