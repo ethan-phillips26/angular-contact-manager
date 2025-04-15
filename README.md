@@ -26,10 +26,10 @@ A simple contact manager made with Angular. It allows users to add, view, and ed
 
 1. **Clone the repo:**
 
-   ```bash
-   git clone https://github.com/your-username/contact-manager.git
-   cd contact-manager
-   ```
+  ```bash
+  git clone https://github.com/your-username/contact-manager.git
+  cd contact-manager
+  ```
 
 2. **Install dependencies:**
 
