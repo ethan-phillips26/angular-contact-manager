@@ -10,7 +10,7 @@ A simple contact manager made with Angular. It allows users to add, view, and ed
 
 ---
 
-## 🚀 Features
+## Features
 
 - Add new contacts
 - Edit existing contact information
@@ -21,14 +21,14 @@ A simple contact manager made with Angular. It allows users to add, view, and ed
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Framework:** Angular
 - **Styling:** Bootstrap
   
 ---
 
-## 📦 Installation
+## Installation
 
 1. **Clone the repo:**
 
